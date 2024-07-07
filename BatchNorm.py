@@ -61,5 +61,5 @@ assert torch.allclose(output_norm_from_scratch, output_norm, rtol=1e-1), "Output
 Remember:
     Input.size() = 
         (batch_size, num_features) -> nn.BatchNorm1D
-        (batch_size, H, W, C) -> nn.BatchNorm2D (used in CNN)
+        (batch_size, C, H, W) -> nn.BatchNorm2D (used in CNN)
 """
