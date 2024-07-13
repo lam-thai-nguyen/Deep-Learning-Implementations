@@ -1,8 +1,8 @@
-##########################################################################################################
-# MOTIVATION: If we can normalize the input features to make optimization run faster,
-# can we normalize the activations (i.e., the inputs to the next layer) to make optimization run faster?
-# BatchNorm is to normalize the z -- the pre-activation.
-##########################################################################################################
+#############################################################################################################
+#    MOTIVATION: If we can normalize the input features to make optimization run faster,                    #
+#    can we normalize the activations (i.e., the inputs to the next layer) to make optimization run faster? #
+#    BatchNorm is to normalize the z -- the pre-activation.                                                 #
+#############################################################################################################
 
 """
 Last edited on: Jul 5, 2024
