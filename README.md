@@ -9,3 +9,4 @@ status: **ongoing**
 paper by topic:
 
 - **Batch Normalization ([BatchNorm](BatchNorm.py))**: Ioffe, S., & Szegedy, C. (2015, June). Batch normalization: Accelerating deep network training by reducing internal covariate shift. In International conference on machine learning (pp. 448-456). pmlr.
+- **Dropout ([Dropout](Dropout.py))**: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). Dropout: a simple way to prevent neural networks from overfitting. The journal of machine learning research, 15(1), 1929-1958.
