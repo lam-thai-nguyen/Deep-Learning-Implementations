@@ -80,7 +80,7 @@ assert num_dropped_scratch == num_dropped_pytorch
 
 """
 Note:
-    - Those 2 examples (from scratch and pytorch) are not the same
+    - Those 2 examples (from scratch and pytorch) are not the same methods
     - They are just for demonstration purposes (i.e., they drop the same number of units in layer 1)
     - In practice, just use nn.Dropout
 """
