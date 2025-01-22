@@ -1,9 +1,10 @@
 # Deep Learning Implementations
 
-this repository is for people who (1) have basic understandings of ML, DL, (2) are familiar with ML, DL techniques' names, (3) want to implement from scratch and implement using pytorch, (4) want to get the hang of pytorch 🐍 and (5) are learning or have finished MLS/DLS by Andrew Ng.
+This repository is for (0) me, and people who (1) have basic understandings of Machine Learning and Deep Learning, (2) want to implement algorithms from scratch and with pytorch, and (3) are learning or have finished Coursera MLS/DLS by Andrew Ng.
 
-| Paper | Year | Keywords |
-|-------|------|----------|
-| [BatchNorm](https://arxiv.org/pdf/1502.03167)| 2015 | DNN, normalization |
-| [Dropout](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf) | 2014 | DNN, overfitting |
-| [He Initialization](https://arxiv.org/pdf/1502.01852) | 2015 | initialization |
+| Topic | Paper | Year | Keywords |
+|-------|-------|------|----------|
+| [Binary Classification](binary_classification.ipynb) | _ | _ | _ |
+| [BatchNorm](BatchNorm.py) | [BatchNorm](https://arxiv.org/pdf/1502.03167)| 2015 | DNN, normalization |
+| Dropout | [Dropout](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf) | 2014 | DNN, overfitting |
+| He Init | [He Initialization](https://arxiv.org/pdf/1502.01852) | 2015 | initialization |
