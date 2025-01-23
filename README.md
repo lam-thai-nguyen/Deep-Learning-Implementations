@@ -4,7 +4,7 @@ This repository is for (0) me, and people who (1) have basic understandings of M
 
 | Topic | Paper | Year | Keywords |
 |-------|-------|------|----------|
-| [Binary Classification](binary_classification.ipynb) | _ | _ | _ |
+| [Binary Classification](binary_classification.ipynb) | _ | _ | classification |
 | [BatchNorm](BatchNorm.py) | [BatchNorm](https://arxiv.org/pdf/1502.03167)| 2015 | DNN, normalization |
 | Dropout | [Dropout](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf) | 2014 | DNN, overfitting |
 | He Init | [He Initialization](https://arxiv.org/pdf/1502.01852) | 2015 | initialization |
